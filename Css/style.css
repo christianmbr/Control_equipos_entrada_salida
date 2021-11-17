@@ -1,0 +1,16 @@
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.form {
+  width: 450px;
+}
+.titulo {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.miform {
+  height: 60px;
+}
